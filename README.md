@@ -1,2 +1,2 @@
-﻿# Carrmichael - Crypto Trading Bot
+﻿# Carrmichael - Blockchain Visualizer
 
